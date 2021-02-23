@@ -1,13 +1,12 @@
-# デザイナーが知るべきWeb標準のこと
+# 小さく始める Design System
 
 <nav id="toc" role="doc-toc">
 
 ## 目次
 
 - [まえがき](preface.html)
-- [Webって何？](web.html)
-  - [概要](web.html#overview)
-  - [歴史](web.html#history)
+- [Design System の構成要素](intro.html)
+- [Design System を小さく始めるコツ](tips.html)
 - [あとがき](afterword.html)
 
 </nav>

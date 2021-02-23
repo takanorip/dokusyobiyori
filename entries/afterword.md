@@ -1,9 +1,11 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ligula elit, efficitur in iaculis nec, tempor eu ante. Donec eu lorem a lacus bibendum sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus mollis eros id neque porta feugiat. Nunc augue libero, sollicitudin et elit non, consectetur consequat nunc. Proin molestie rutrum tellus, et ullamcorper eros interdum nec. Integer ornare elit sed tortor sagittis facilisis. Sed quis hendrerit tortor. Nullam purus massa, aliquam porta leo nec, porta volutpat metus. Quisque non placerat metus. Proin quis ex malesuada, dapibus lorem sed, finibus sapien. Etiam malesuada dolor ex, non pharetra tortor consectetur ac. Vestibulum nec purus purus. Curabitur vulputate convallis leo sit amet euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ullamcorper interdum malesuada.
+# あとがき
+デザインシステムと聞くといかにも重厚長大な感じがあり身構えてしまいますが、この本で紹介したように小さく始めることも出来ます。これはどんなことにも当てはまりますが、大きな課題は小さく分解して可能なところから小さく始めることが重要です。今あるデザインと向き合い、小さなところからルールを整えていきましょう。
+## 著者紹介
 
-Integer facilisis suscipit eros, non facilisis magna hendrerit et. Etiam vulputate nisl a enim cursus, in luctus nisl ullamcorper. Mauris ut lacus nec tellus commodo mattis eget a risus. Duis placerat, diam eget placerat viverra, massa arcu porttitor nulla, in dictum nibh mauris nec lacus. Quisque quis bibendum libero. In hac habitasse platea dictumst. Aliquam mauris augue, pretium at varius sit amet, lacinia non nisi. Nunc sit amet vulputate metus, eu tempor est.
+**大木尊紀**
 
-Aliquam non facilisis ante. Maecenas placerat venenatis nulla ut egestas. Pellentesque ac risus et enim laoreet euismod. Sed ac porttitor enim, sit amet blandit libero. Vestibulum aliquet dolor sapien, eget ullamcorper elit ultricies sit amet. Vestibulum consectetur lectus eget laoreet faucibus. Aliquam ut ornare ex. Pellentesque eget elit accumsan, commodo quam eget, ultricies augue.
-
-Mauris ullamcorper, orci quis faucibus interdum, mauris purus tempus nunc, sit amet interdum dolor libero sit amet orci. Nam eleifend efficitur ante tristique auctor. Aliquam commodo dapibus viverra. Nam non pellentesque eros, et tristique dolor. Curabitur vestibulum a justo non rhoncus. Fusce varius euismod arcu nec sagittis. Sed consequat quis erat sit amet luctus. In hac habitasse platea dictumst. Donec ex nulla, pharetra sed blandit quis, ultricies sit amet erat. Pellentesque sed tortor ante.
-
-Vestibulum viverra quam sed laoreet tristique. Proin non semper mi. In sollicitudin dignissim odio vel faucibus. Donec commodo cursus dignissim. Morbi in sapien quam. Donec nisl orci, posuere vitae commodo eget, tempus ut ligula. Sed quis enim pellentesque, vestibulum nulla tincidunt, eleifend est. Aliquam vitae massa vitae neque molestie faucibus quis sed tortor. Morbi commodo enim sit amet eros ultricies, non accumsan quam laoreet. Praesent vel metus et risus varius mattis quis et quam. Ut convallis dictum enim non pretium. Curabitur nulla odio, sollicitudin quis metus et, lacinia condimentum mauris. Praesent porttitor neque et magna venenatis, vel eleifend turpis vehicula. Suspendisse potenti. Donec turpis tellus, facilisis ac euismod volutpat, ullamcorper ut sapien.
+UIデザイナー/フロントエンドエンジニア。Web Platform Study Group オーガナイザー。スタートアップ数社でWebアプリケーションのフロントエンド開発に携わった後、UIデザイナーに転向した。実装とデザインの境界に興味があり、コミュニケーションやFigma Pluginsの開発などを通して、エンジニアとデザイナーがより円滑に協同できる仕組みづくりを目指している。
+https://www.youtube.com/channel/UCfToJ-sTOqvBnnuVq3zdZhA
+https://twitter.com/takanoripe
+https://takanorip.com/
+https://takanorip.com/blog

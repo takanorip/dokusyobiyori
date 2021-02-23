@@ -3,15 +3,13 @@ module.exports = {
   author: 'takanorip <takanori0170@gmail.com>', // default to `author` in `package.json` or undefined.
   language: 'ja', // default to `en`.
   size: 'A5', // paper size.
-  theme: 'style.css', // .css or local dir or npm package. default to undefined.
+  theme: '@vivliostyle/theme-techbook', // .css or local dir or npm package. default to undefined.
   // entryContext: './manuscripts', // default to '.' (relative to `vivliostyle.config.js`).
   entry: [
     'entries/index.md',
     'entries/preface.md',
-    {
-      path: 'entries/web.md',
-      title: 'Webとは？'
-    },
+    'entries/intro.md',
+    'entries/tips.md',
     'entries/afterword.md',
     'entries/colophon.md'
     // 'glossary.html', // html can be passed.

@@ -457,7 +457,7 @@ ol.cite-items li::before {
 }
 
 @page {
-  size: 182mm 257mm;
+  size: 148mm 210mm;
   margin-top: 25mm;
   margin-bottom: 25mm;
   @top-left-corner {
